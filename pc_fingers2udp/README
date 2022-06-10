@@ -1,0 +1,7 @@
+If you Buy a Leap Motion, follow installation instruction, and try to run python Sample.
+you can check the lib folder files that I have to make it run
+The code that I use is a very simple modification of the Sample, calculating some distances and sending UDP messages
+
+
+sudo leapd --camera_framerate_limit 200
+python2.7 Sample.py

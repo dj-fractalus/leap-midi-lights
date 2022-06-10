@@ -1,0 +1,12 @@
+{
+	"mappings_mode_animation": [
+			"InitialChoreography()",
+			"ResizableCamaleonDancingWorms(False, 120,0,0,0,120,0,13,13)",
+			"ResizableCamaleonDancingWorms(False, 0,120,120,0,120,120,8,21)",
+			"Fingers()",
+         "ColorParade()",
+         "ResizableCamaleonDancingWorms()",
+         "StaticOneColor()",
+         "StaticTwoColors()"
+		]
+}
